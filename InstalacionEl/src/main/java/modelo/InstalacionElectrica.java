@@ -45,4 +45,8 @@ public class InstalacionElectrica {
         }
     }
 
+    @Override
+    public String toString() {
+        return "InstalacionElectrica{ consumoTotal=" + consumoTotal + '}';
+    }
 }

@@ -50,5 +50,4 @@ public class Aparato {
     public String getNombre() {
         return nombre;
     }
-
 }
